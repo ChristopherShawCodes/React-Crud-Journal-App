@@ -24,7 +24,7 @@ See what I built: https://framed-react-journal-app.netlify.app/
 
 
 
-// Delete function take aways:
+//-------------------------------- Delete function notes----------------------------------
 
     //To start we need access to the index so we can delete the appropriate entry
     //back in App.jsx we add index={index}
