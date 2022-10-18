@@ -4,9 +4,9 @@ This is the final product from coding along with the following Office Hour video
 
 Youtube: 
 
-https://www.youtube.com/watch?v=80WvUBpdYco&list=PLGgKBNvAhvCnCVIkJOmX-g2Pp6RvbrWEn
+OH1: https://www.youtube.com/watch?v=80WvUBpdYco&list=PLGgKBNvAhvCnCVIkJOmX-g2Pp6RvbrWEn
 
-https://www.youtube.com/watch?v=tRlDUA7tuoQ&list=PLGgKBNvAhvCnCVIkJOmX-g2Pp6RvbrWEn
+OH2: https://www.youtube.com/watch?v=tRlDUA7tuoQ&list=PLGgKBNvAhvCnCVIkJOmX-g2Pp6RvbrWEn
 
 
 See what I built: https://framed-react-journal-app.netlify.app/
