@@ -33,10 +33,10 @@ See what I built: https://framed-react-journal-app.netlify.app/
     //Return statement tells the index to NO LONGER = index. 
     //so we return our new set of entries minus the one with the delete handler if clicked
     
-    `const deleteEntry = () =>{
+    const deleteEntry = () =>{
     const newEntries = entries.filter((entry,i)=>{
       return i !== index
     })
       setEntries(newEntries)
-    }`
+    }
 
