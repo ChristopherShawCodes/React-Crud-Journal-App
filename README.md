@@ -14,8 +14,11 @@ See what I built: https://framed-react-journal-app.netlify.app/
 // CRUD Operations // Create Read Update Delete
 
 // Create: Create a new thought
+
 // Read: Display the thought
+
 // Update: Edit the thought
+
 // Delete: Delete the thought
 
 
